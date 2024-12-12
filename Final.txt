@@ -1,55 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
 <head> 
-<meta charset=""UTF-8">
-<meta name=""viewport" content="width=device-width",intial-scale=1.0">
-<meta name="description" content="Explore and learn about the anime convention experience">
-<title>Anime Explorer </title>
-<link rel="stylesheet" href="Fstyle.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore and learn about the anime convention experience">
+    <title>Anime Explorer</title>
+    <link rel="stylesheet" href="Fstyle.css">
 </head>
 <body>
     <header>
-        <div class="bradning">
-            <h1> Anime Explorer</h1>
+        <div class="branding">
+            <h1>Anime Explorer</h1>
         </div>
         <nav>
-            <ul class=""nav-links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#conventions">Conventions</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Home</a></li>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#conventions">Conventions</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
-</body>
 
-<main>
-  <section id="home">
-    <h2> Welcome to Anime Explorer</h2>
-    <p> Your ultimate guide to anime conventions around the world.Discover upcoming events,
-    learn more about convetiions, and connect with fellow enthusiasts!</p>
- </section>
+    <main>
+        <section id="home">
+            <h2>Welcome to Anime Explorer</h2>
+            <p>Your ultimate guide to anime conventions around the world. Discover upcoming events, learn more about conventions, and connect with fellow enthusiasts!</p>
+        </section>
 
- <section> id="conventions">
-    <h2>Upcoming Anime Convetions</h2>
-    <ul>
-        <li><strong> Anime Expo</strong> - Los Angeles,CA - July 4 - 7,2024</li>
-        <li><strong>Sakura-Con</strong> - Seattle, WA - March 29-31, 2024</li>
-        <li><strong>Otakon</strong> - Washington, DC - August 2-4, 2024</li>
-    </ul>
- </section>
- <section id="about">
-    <h2>About Anime Conventions</h2>
-    <p>Anime conventions are events where fans of Japanese animation, manga, and pop culture come together to celebrate. These gatherings often feature cosplay, artist alleys, panels, and screenings of popular anime titles.</p>
-</section>
-</main>
-<footer id="contact">
-    <h2>Contact Us</h2>
-    <p>Have suggestions or questions? Feel free to reach out!</p>
-    <ul>
-        <li>Email: <a href="mailto:info@animeexplorer.com">info@animeexplorer.com</a></li>
-        <li>External Link: <a href="https://www.anime-expo.org" target="_blank">Visit Anime Expo</a></li>
-    </ul>
-</footer>
+        <section id="conventions">
+            <h2>Upcoming Anime Conventions</h2>
+            <ul>
+                <li><strong>Anime Expo</strong> - Los Angeles, CA - July 4–7, 2024</li>
+                <li><strong>Sakura-Con</strong> - Seattle, WA - March 29–31, 2024</li>
+                <li><strong>Otakon</strong> - Washington, DC - August 2–4, 2024</li>
+            </ul>
+        </section>
+
+        <section id="about">
+            <h2>About Anime Conventions</h2>
+            <p>Anime conventions are events where fans of Japanese animation, manga, and pop culture come together to celebrate. These gatherings often feature cosplay, artist alleys, panels, and screenings of popular anime titles.</p>
+        </section>
+    </main>
+
+    <footer id="contact">
+        <h2>Contact Us</h2>
+        <p>Have suggestions or questions? Feel free to reach out!</p>
+        <ul>
+            <li>Email: <a href="mailto:info@animeexplorer.com">info@animeexplorer.com</a></li>
+            <li>External Link: <a href="https://www.anime-expo.org" target="_blank">Visit Anime Expo</a></li>
+        </ul>
+    </footer>
 </body>
 </html>
